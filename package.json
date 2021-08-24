@@ -1,5 +1,5 @@
 {
-  "lockfileVersion": 1,
+  
 
   
     "name": "comicoders",
@@ -16,7 +16,7 @@
     "author": "",
     "license": "ISC",
     "bugs": {
-    "url": ""
+    "url": "https://github.com/ShampooPencil/comicoders.git"
   },
     "homepage": ""
   
